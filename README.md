@@ -12,8 +12,8 @@ Welcome to the official central hub for PCSDF training materials. This repositor
 ### 🛡️ Cybersecurity & Offensive Security
 | Resource Name | Description | Link |
 | :--- | :--- | :--- |
-| **Cybersecurity Essentials** | 2700+ Q&A Prep for Certification | [View Repo ↗️](https://github.com/pcsdf/Cybersecurity-Essentials-Prep) |
-| **Practical Pentesting** | 30-Day Hands-on Roadmap | [View Repo ↗️](https://github.com/pcsdf/The-PenTrix-30-Days-of-Practical-Pentesting) |
+| **Cybersecurity Essentials** | 2700+ Q&A Prep for Certification | [View Repo ↗️](https://github.com/PCSDF/Cybersecurity-Essentials) |
+| **Practical Pentesting** | 30-Day Hands-on Roadmap | [View Repo ↗️](https://github.com/PCSDF/Practical-Pentesting) |
 
 ### 🤖 Artificial Intelligence & Generative AI
 | Resource Name | Description | Link |
